@@ -45,6 +45,10 @@
   height: calc(100% - 52px);
 }
 
+.panel-title {
+  font-size: 24px;
+}
+
 body {
   margin: 0;
   background: var(--black-line);
@@ -133,19 +137,18 @@ body {
   gap: 32px;
   
   justify-content: center;
-  
 }
 
 #date-date {
   font-family: var(--font-number);
   font-size: 100px;
-
   font-weight: 360;
-  
+  margin-top: 20px;
 }
 
 #date-day {
   font-family: var(--font-alpha);
+  font-size: 100px;
   font-weight: 360;
 }
 
