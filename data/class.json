@@ -1,0 +1,242 @@
+{
+    "Monday": [
+      {
+        "period": "01",
+        "room": "総合体育館",
+        "title": "健康・スポーツ科学演習",
+        "attendance": true,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "02",
+        "room": "2403",
+        "title": "微分積分学Ⅰ",
+        "attendance": false,
+        "test": true,
+        "assignment": false
+      },
+      {
+        "period": "03",
+        "room": "1402",
+        "title": "学術英語 > \nアカデミックリテラシー",
+        "attendance": true,
+        "test": false,
+        "assignment": true
+      },
+      {
+        "period": "04",
+        "room": "2407",
+        "title": "情報科学Ⅰ",
+        "attendance": false,
+        "test": true,
+        "assignment": true
+      }
+    ],
+
+    "Tuesday": [
+      {
+        "period": "01",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "02",
+        "room": "2207",
+        "title": "中国語ⅠA",
+        "attendance": true,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "03",
+        "room": "1403",
+        "title": "学術英語・アカデミックリテラシー",
+        "attendance": true,
+        "test": false,
+        "assignment": true
+      },
+      {
+        "period": "04",
+        "room": "2404",
+        "title": "サイバーセキュリティ基礎論",
+        "attendance": false,
+        "test": true,
+        "assignment": false
+      }
+    ],
+    "Wednesday": [
+      
+      {
+        "period": "01",
+        "room": "2406",
+        "title": "心理学入門",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "02",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "03",
+        "room": "1403",
+        "title": "力学基礎",
+        "attendance": false,
+        "test": false,
+        "assignment": true
+      },
+      {
+        "period": "04",
+        "room": "1403",
+        "title": "文化心理学Ⅰ",
+        "attendance": false,
+        "test": false,
+        "assignment": true
+      }
+    ],
+    "Thursday": [
+      {
+        "period": "01",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "02",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "03",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "04",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      }
+    ],
+    "Friday": [
+      {
+        "period": "01",
+        "room": "1303",
+        "title": "図形科学Ⅰ",
+        "attendance": false,
+        "test": false,
+        "assignment": true
+      },
+      {
+        "period": "02",
+        "room": "2207",
+        "title": "中国語ⅠB",
+        "attendance": true,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "03",
+        "room": "2407",
+        "title": "線形代数学Ⅰ",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "04",
+        "room": "-",
+        "title": "デザインリテラシー基礎",
+        "attendance": false,
+        "test": false,
+        "assignment": true
+      }
+    ],
+    "Saturday": [
+      {
+        "period": "01",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "02",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "03",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "04",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      }
+    ],
+    "Sunday": [
+      {
+        "period": "01",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "02",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "03",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      },
+      {
+        "period": "04",
+        "room": "",
+        "title": "",
+        "attendance": false,
+        "test": false,
+        "assignment": false
+      }
+    ]
+}

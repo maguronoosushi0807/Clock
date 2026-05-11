@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Dashboard</title>
+
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="./script.js"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@1;100;200;300;350;400;500;600;700;800;"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div id="dashboard">
+
+    <section id="clock" class="panel">
+      <div class="panel-title">Clock.</div>
+
+      <div class="panel-content">
+        <div id="clock-text">
+          22:22
+        </div>
+
+        <div class="clock-bar"></div>
+      </div>
+    </section>
+
+    <section id="date" class="panel">
+      <div class="panel-title">Date.</div>
+
+      <div id="date-display" class="panel-content">
+        <div id="date-date">
+          12.24 
+        </div>
+        <div id="date-day">
+          Sat
+        </div>
+      </div>
+    </section>
+
+    <section id="weather" class="panel">
+      <div class="panel-title">Weather.</div>
+
+      <div class="panel-content">
+        <div class="weather-temp">
+          22℃
+        </div>
+      </div>
+    </section>
+
+    <section id="cloud" class="panel">
+      <div class="panel-title">Cloud.</div>
+
+      <div class="panel-content">
+        MAP
+      </div>
+    </section>
+
+    <section id="class" class="panel">
+
+      <div class="panel-title">
+        Class.
+      </div>
+
+      <div class="panel-content">
+
+        <div id="class-list"></div>
+
+      </div>
+
+    </section>
+
+    <section id="menu" class="panel">
+
+      <div class="panel-title">
+        Menu.
+      </div>
+
+      <div class="panel-content">
+
+        <div id="menu-list">
+
+          <div class="menu-card">
+
+            <div class="menu-day">
+              5.11 - Morning
+            </div>
+
+            <ul class="menu-text">
+              <li>スパニッシュオムレツ</li>
+              <li>味噌汁</li>
+              <li>サラダ</li>
+              <li>納豆</li>
+              <li>ごはん</li>
+            </ul>
+
+          </div>
+
+          <div class="menu-card">
+
+            <div class="menu-day">
+              5.11 - Dinner
+            </div>
+
+            <div class="menu-text">
+              <li>ポークチャップ</li>
+              <li>金平ごぼう</li>
+              <li>生野菜</li>
+              <li>汁物</li>
+              <li>ごはん</li>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section id="schedule" class="panel">
+
+      <div class="panel-title">
+        Schedule.
+      </div>
+
+      <div class="panel-content">
+
+        <div id="schedule-list">
+
+          <div class="schedule-item">
+
+            <div class="schedule-time">
+              18:30
+            </div>
+
+            <div class="schedule-title">
+              ミーティング
+            </div>
+
+          </div>
+
+          <div class="schedule-item">
+
+            <div class="schedule-time">
+              19:00
+            </div>
+
+            <div class="schedule-title">
+              課題提出
+            </div>
+
+          </div>
+
+          <div class="schedule-item">
+
+            <div class="schedule-time">
+              21:00
+            </div>
+
+            <div class="schedule-title">
+              制作作業
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section id="task" class="panel">
+      <div class="panel-title">Task.</div>
+
+      <div class="panel-content">
+        TASK DATA
+      </div>
+    </section>
+
+  </div>
+
+</body>
+
+</html>
