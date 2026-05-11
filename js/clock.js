@@ -11,7 +11,7 @@ export function startClock() {
         // const time = now.toLocaleTimeString("ja-JP");
         let min = now.getMinutes();
         if(min < 10){
-            min = "0" + 1;
+            min = "0" + min;
         }
         const time = now.getHours() + ":" + min;
 
