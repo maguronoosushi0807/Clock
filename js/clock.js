@@ -9,7 +9,11 @@ export function startClock() {
         const now = new Date();
 
         // const time = now.toLocaleTimeString("ja-JP");
-        const time = now.getHours() + ":" + now.getMinutes();
+        let min = now.getMinutes();
+        if(min < 10){
+            min = "0" + 1;
+        }
+        const time = now.getHours() + ":" + min;
 
         // const date = now.toLocaleDateString("ja-JP", {
         //     weekday: "long",
